@@ -1,0 +1,8 @@
+@media screen { 
+    .container-max-widths: (
+  sm: 576px,
+  lg: 992px,
+  xl: 1140px,
+  xxl: 1320px
+);
+}
